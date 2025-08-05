@@ -34,6 +34,15 @@ Stack: `Java OOP`, `MySQL`
 
 ---
 
+### 🍽️ Rumah Makan Tradisional - Sistem Pemesanan Web  
+Februari – Juni 2025  
+Stack: `PHP`, `MySQL`, `TailwindCSS`  
+- Folder terstruktur modular: `admin`, `user`, `includes`, `process`, `sql`, `public`.
+
+🔗 [Lihat repository](https://github.com/mochwahyuaditya/rumahmakan-tradisional)
+
+---
+
 ### 🛒 UI/UX Mobile WargaBeli - Belanja Grosir RT  
 April – Mei 2025  
 Tools: `Figma`  
