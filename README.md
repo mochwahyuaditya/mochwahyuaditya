@@ -68,7 +68,7 @@ Tools: `Figma`
 
 ## 📫 Kontak & Media Sosial
 
-📧 Email: [mochwahyu0404@gmail.com](mailto:mochwahyu0404@gmail.com)  
+📧 Email: [mochwahyu0404@gmail.com](mailto:mochwahyuaditya4@gmail.com)  
 📱 Instagram: [@wahyuadittyyaa](https://instagram.com/wahyuadittyyaa)  
 🌐 GitHub: [github.com/mochwahyuaditya](https://github.com/mochwahyuaditya)
 
