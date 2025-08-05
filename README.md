@@ -1,20 +1,71 @@
-# Halo teman teman saya Mochammad Wahyu Aditya 👋
-## Tentang Saya :
-- 🔭 Saya berkuliah di UPN "VETERAN" Jawa Timur
-- 🌱 Saya mahasiswa baru Fakultas Ilmu Komputer, Program Studi Informatika
-- 👯 Saya penasaran dan ingin belajar tentang pemrograman
-- 🤔 Mari Kita Berteman
-- 💬 Ask me about anything
-- 📫 Sosial Media : email = mochwahyu0404@gmail.com
-                     Instagram = @wahyuadittyyaa
-## Organisasi :
-#### 1. Anggota Mussan Mania | `2021-2022`
-#### 2. Ketua Giant Flag(gf) | `2022-2023`
+# 👋 Halo teman-teman, saya Mochammad Wahyu Aditya!
 
-## Riwayat Pendidikan:
+🎓 Mahasiswa Informatika semester 5 di **UPN "Veteran" Jawa Timur**, Fakultas Ilmu Komputer.  
+📚 IPK: **3.83 / 4.0**
 
-#### 1. TK PERMATA BANGSA | SURABAYA `2009-2010`
-#### 2. SDN Jambangan 1 | SURABAYA `2010-2017`
-#### 3. SMP Negeri 36 Surabaya | SURABAYA `2017-2020`
-#### 4. SMA Muhammadiyah 1 Taman | SIDOARJO `2020-2023`
+Saya memiliki ketertarikan dalam:
+- Pengembangan perangkat lunak berbasis website
+- Pengolahan data
+- Sistem informasi berbasis desktop
+- Desain UI/UX
+
+Saat ini terbiasa menggunakan:
+**Java, PHP, JavaScript, Python, C++**, serta beberapa framework dan tools seperti MySQL, TailwindCSS, Figma, GitHub, dan lainnya.
+
+---
+
+## 🔨 Project Unggulan
+
+### 💻 Website Pemesanan RM Sambal Belut
+Februari – Juni 2025  
+Stack: `Node.js`, `Tailwind CSS`, `PHP`, `MySQL`  
+- Sistem pemesanan multi-role (admin & user) dengan fitur cart, checkout, poin member, dan manajemen stok.
+
+🔗 [Lihat repository](https://github.com/fikrahdamar/website-wm-sambal-belut)
+
+---
+
+### 🚚 Aplikasi Pengiriman Logistik - PT Semesta Bangkit Abadi  
+April – Mei 2025  
+Stack: `Java OOP`, `MySQL`  
+- Sistem pengelolaan pegawai, produk, mitra, invoice, kwitansi, dan laporan keuangan.
+
+🔗 [Lihat repository](https://github.com/Lovianno/aplikasi-pengelolaan-jasa-logistik)
+
+---
+
+### 🛒 UI/UX Mobile WargaBeli - Belanja Grosir RT  
+April – Mei 2025  
+Tools: `Figma`  
+- Desain fitur Belanja Bareng, Pembayaran Kolektif, Jadwal Belanja, dan Forum RT.
+
+---
+
+## 👨‍💼 Pengalaman Organisasi & Kepanitiaan
+
+- **Bootcamp Data Analyst Fasilkom x DQLab** – Div. Perlengkapan & Konsumsi (2024)  
+- **Himatifa Design Contest** – Div. Perlengkapan & Konsumsi (2023)  
+- **Social Leader Movement SMA Muhammadiyah 1 Taman** – Seminar Kesehatan Mental (2024)  
+
+---
+
+## 🏆 Penghargaan & Sertifikasi
+
+- **Beasiswa BeSmart Pemuda Tangguh** – Pemkot Surabaya (2023 – sekarang)  
+- **RevoU Fundamental Software Engineering Course** (2024)  
+- **Bootcamp Data Analyst - Fasilkom x DQLab** (2024)
+
+---
+
+## 📫 Kontak & Media Sosial
+
+📧 Email: [mochwahyu0404@gmail.com](mailto:mochwahyu0404@gmail.com)  
+📱 Instagram: [@wahyuadittyyaa](https://instagram.com/wahyuadittyyaa)  
+🌐 GitHub: [github.com/mochwahyuaditya](https://github.com/mochwahyuaditya)
+
+---
+
+> Terima kasih sudah mengunjungi profil saya!  
+> Yuk connect atau kolaborasi project bareng 😄
+
 
